@@ -233,4 +233,5 @@ const Main = () => {
     </Background>
   );
 };
+
 export default Main;
