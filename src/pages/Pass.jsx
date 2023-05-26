@@ -112,7 +112,7 @@ color: #000000;
 
 const Envelope = styled.div`
 position: relative;
-margin-left: 491px;
+margin-left: 29%;
 margin-top: -100px;
 `;
 
